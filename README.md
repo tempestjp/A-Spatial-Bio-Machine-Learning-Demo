@@ -1,1 +1,3 @@
 This is a demo project I created to teach those with a bio background how Machine-Learning can be used to predict and map target phenotypes in a histo slide. The additional benefit of using ML on top of spatial transcriptomics is explored. There is a powerpoint presentation as well, if you find that helpful. The project was mostly completed on colab. If you would like to use it in colab as I did, simply drag and drop files into the side bar. Have fun!
+
+(There is currently a transient issue with github displaying notebooks as of April 10th 2025. If this impacts you, please download the notebook and upload into colab or your preferred environment.) 
